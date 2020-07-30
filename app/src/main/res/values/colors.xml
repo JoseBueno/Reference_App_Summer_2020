@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+
+    <!--    common colors -->
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <!--    standard blue -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight">#BBDEFB</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <!-- green machine -->
+    <color name="greenieColorPrimary">#009688</color>
+    <color name="greenieColorPrimaryDark">#00796B</color>
+    <color name="greenieColorPrimaryLight">#B2DFDB</color>
+    <color name="greenieColorAccent">#4CAF50</color>
+
 </resources>

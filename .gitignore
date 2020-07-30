@@ -12,3 +12,14 @@
 /captures
 .externalNativeBuild
 .cxx
+/gradle/wrapper/gradle-wrapper.properties
+/.idea/.name
+/.idea/dbnavigator.xml
+/.idea/gradle.xml
+/gradle/wrapper/gradle-wrapper.jar
+/.idea/jarRepositories.xml
+/.idea/dictionaries/josebueno.xml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
